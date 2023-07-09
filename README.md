@@ -1,4 +1,4 @@
-# ToonGrassShaderExample
+# StylizedGrassShaderExample
 
 Unity project for showcasing my Stylized Grass shader, using Unity Built-in Render Pipeline.
 
