@@ -1,3 +1,3 @@
 # ToonGrassShaderExample
 
-![Alt Text](ToonGrassShaderExample/Assets/Screenshot_Demo.png)
+![Alt Text](Assets/Screenshot_Demo.png)
