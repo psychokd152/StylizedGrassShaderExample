@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Skybox_StylizedForest 2
+  m_Shader: {fileID: 4800000, guid: 82881a2d011b0964696411c822cdd00b, type: 3}
+  m_ValidKeywords:
+  - _ENABLEFOG_ON
+  - _ENABLEROTATION_ON
+  m_InvalidKeywords:
+  - _SUNDISK_HIGH_QUALITY
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex:
+        m_Texture: {fileID: 8900000, guid: ca6820d8ca68aa94c92d27126a316245, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AtmosphereThickness: 0.74
+    - _BumpScale: 1
+    - _CubemapPosition: -0.05
+    - _Cubemapp: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EnableFog: 1
+    - _EnableRotation: 1
+    - _Exposure: 0.7
+    - _FogFill: 0.502
+    - _FogHeight: 0.599
+    - _FogIntensity: 0.28
+    - _FogMessage: 0
+    - _FogPosition: 0
+    - _FogSmoothness: 0.01
+    - _Fogg: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HueOffset: -12
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Rotation: 215
+    - _RotationSpeed: 1
+    - _Rotationn: 1
+    - _SkyboxExtended: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SunDisk: 2
+    - _SunSize: 0.148
+    - _SunSizeConvergence: 1.43
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GroundColor: {r: 0.9497371, g: 1, b: 0.6933962, a: 1}
+    - _SkyTint: {r: 1, g: 0.9215687, b: 0.54509807, a: 1}
+    - _Tex_HDR: {r: 0, g: 0, b: 0, a: 0}
+    - _Tint: {r: 1, g: 0.8543434, b: 0.7971698, a: 1}
+    - _TintColor: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+  m_BuildTextureStacks: []
